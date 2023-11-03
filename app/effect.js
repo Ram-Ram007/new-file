@@ -2,6 +2,7 @@ $(window).load(function(){
     $('.loading').fadeOut('fast');
     $('.container').fadeIn('fast');
 });
+//added
 $('document').ready(function(){
         var vw;
         $(window).resize(function(){
