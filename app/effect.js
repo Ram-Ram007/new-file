@@ -175,6 +175,8 @@ $("document").ready(function () {
       });
   });
 
+  // wish message part
+
   $("#wish_message").click(function () {
     vw = $(window).width() / 2;
     $("#b1,#b2,#b3,#b4,#b5,#b6,#b7,#8,#9").stop();
