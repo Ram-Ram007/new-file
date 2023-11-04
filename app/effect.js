@@ -102,7 +102,7 @@ $("document").ready(function () {
       loopFive();
     });
   }
-
+  //loop six
   function loopSix() {
     var randleft = 1000 * Math.random();
     var randtop = 500 * Math.random();
